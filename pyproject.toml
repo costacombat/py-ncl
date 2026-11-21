@@ -6,7 +6,7 @@ build-backend = "maturin"
 name = "py-ncl"
 description = "Python bindings to the Nickel configuration language, running Nickel in process"
 readme = "README.md"
-license = "MIT"
+license = "AGPL-3.0-only"
 requires-python = ">=3.9"
 keywords = ["nickel", "configuration", "ncl"]
 classifiers = [

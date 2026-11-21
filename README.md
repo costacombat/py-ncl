@@ -108,3 +108,10 @@ The Rust side (`src/lib.rs`) depends on nickel-embed at a pinned rust-nickel rev
 Pushing a tag `vX.Y.Z` builds wheels for Linux (x86_64, aarch64), macOS (arm64) and Windows
 (x86_64), plus a source distribution, and publishes them to PyPI through trusted publishing.
 The wheels use Python's stable ABI, so one wheel per platform covers Python 3.9 and later.
+
+## Licence
+
+Copyright © 2026 Ash. Licensed under the
+[GNU Affero General Public License v3.0 only](LICENSE) (`AGPL-3.0-only`).
+
+Copies published before this change stay available under the MIT licence they had then.
